@@ -1,8 +1,8 @@
 class DenoDep < Formula
   desc "Dependency management for Deno"
   homepage "https://depjs.com/"
-  url "https://github.com/denodep/dep/archive/v0.1.4.tar.gz"
-  sha256 "c19c0830a2ab3b5812a7949c3320496069639fc6d1b4eddf5b5fe45285e0b744"
+  url "https://github.com/denodep/dep/archive/v0.2.0.tar.gz"
+  sha256 "538e51c1abd03fffacee499cd3cc12b6be4dba7a790288537541da7f8d4575c5"
 
   bottle :unneeded
 
